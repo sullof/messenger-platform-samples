@@ -4,3 +4,7 @@ pids
 node_modules
 .npm
 *.dat
+
+config/production.json
+config/development.json
+config/staging.json
