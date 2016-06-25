@@ -8,3 +8,17 @@ node_modules
 config/production.json
 config/development.json
 config/staging.json
+
+xunit.xml
+
+debug
+npm-debug.log
+.DS_Store
+_SpecRunner.html
+test_results
+coverage
+*.backup
+.idea
+*.swp
+/scratch
+/tmp
