@@ -5,9 +5,9 @@ node_modules
 .npm
 *.dat
 
-config/production.json
-config/development.json
-config/staging.json
+node/config/production.json
+node/config/development.json
+node/config/staging.json
 
 xunit.xml
 
